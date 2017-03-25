@@ -1,2 +1,3 @@
-# home-demand-api
-A simple API for real estate home demands.
+# toddler-travel-api
+
+A simple micro-service to serve the toddler travel application.
